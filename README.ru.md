@@ -1,5 +1,6 @@
 # ActivityRecorder
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joyrexj4/ActivityRecorder/blob/main/README.md)
+
 Консольное приложение, которое записывает время проведённое в активности.
 Использует библиотеку [nlohmann's json library](https://nlohmannjson.org/) для работы с json файлами.
 
