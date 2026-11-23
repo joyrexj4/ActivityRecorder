@@ -1,4 +1,6 @@
 # ActivityRecorder
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/joyrexj4/ActivityRecorder/blob/main/README.ru.md)
+
 Console app that records activity elapsed time in real time. 
 Uses [nlohmann's json library](https://nlohmannjson.org/)
 
